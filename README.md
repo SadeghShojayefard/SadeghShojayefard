@@ -1,11 +1,15 @@
 ## Hi there, I am Sadegh Shojaye Fard 👋
 
-<h3> 👨🏻‍💻 &nbsp; About Me </h3> 
+### 👨🏻‍💻 &nbsp; About Me 
 
--🎓 &nbsp; BSD in IT Subject In University
--💼 &nbsp; Working as FrontEnd Developer
--🌱 &nbsp; Learning BackEnd
--✍🏻 &nbsp; Coding, reading books, and playing video games are my hobbies 🙂 
+- 🎓 &nbsp; 
+BSD in IT Subject In University
+- 💼 &nbsp; 
+Working as FrontEnd Developer
+- 🌱 &nbsp;
+Learning BackEnd
+- ✍🏻 &nbsp; 
+Coding, reading books, and playing video games are my hobbies 🙂 
 
 ## 🔧 Tech Stack  
 
