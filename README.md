@@ -51,7 +51,7 @@ Coding, reading books, and playing video games are my hobbies 🙂
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-sadegh--shojayefard.vercel.app-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://sadegh-shojayee-fard.vercel.app/)
-[![Gmail](https://img.shields.io/badge/gmail-sadegh.shojayefar@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sadegh.shojayefar@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-sadeghshojayefard@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sadeghshojayefard.com)
 [![Telegram](https://img.shields.io/badge/telegram-@link_lover1-4285F4?style=flat&logo=telegram)](https://t.me/link_lover1)
 
 </div>
